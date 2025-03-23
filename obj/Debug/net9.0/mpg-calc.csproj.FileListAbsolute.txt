@@ -1,0 +1,15 @@
+C:\Users\Michael (ECPI)\OneDrive - ECPI University\Documents\Git-Repo\mpg-calc\bin\Debug\net9.0\mpg-calc.exe
+C:\Users\Michael (ECPI)\OneDrive - ECPI University\Documents\Git-Repo\mpg-calc\bin\Debug\net9.0\mpg-calc.deps.json
+C:\Users\Michael (ECPI)\OneDrive - ECPI University\Documents\Git-Repo\mpg-calc\bin\Debug\net9.0\mpg-calc.runtimeconfig.json
+C:\Users\Michael (ECPI)\OneDrive - ECPI University\Documents\Git-Repo\mpg-calc\bin\Debug\net9.0\mpg-calc.dll
+C:\Users\Michael (ECPI)\OneDrive - ECPI University\Documents\Git-Repo\mpg-calc\bin\Debug\net9.0\mpg-calc.pdb
+C:\Users\Michael (ECPI)\OneDrive - ECPI University\Documents\Git-Repo\mpg-calc\obj\Debug\net9.0\mpg-calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael (ECPI)\OneDrive - ECPI University\Documents\Git-Repo\mpg-calc\obj\Debug\net9.0\mpg-calc.AssemblyInfoInputs.cache
+C:\Users\Michael (ECPI)\OneDrive - ECPI University\Documents\Git-Repo\mpg-calc\obj\Debug\net9.0\mpg-calc.AssemblyInfo.cs
+C:\Users\Michael (ECPI)\OneDrive - ECPI University\Documents\Git-Repo\mpg-calc\obj\Debug\net9.0\mpg-calc.csproj.CoreCompileInputs.cache
+C:\Users\Michael (ECPI)\OneDrive - ECPI University\Documents\Git-Repo\mpg-calc\obj\Debug\net9.0\mpg-calc.sourcelink.json
+C:\Users\Michael (ECPI)\OneDrive - ECPI University\Documents\Git-Repo\mpg-calc\obj\Debug\net9.0\mpg-calc.dll
+C:\Users\Michael (ECPI)\OneDrive - ECPI University\Documents\Git-Repo\mpg-calc\obj\Debug\net9.0\refint\mpg-calc.dll
+C:\Users\Michael (ECPI)\OneDrive - ECPI University\Documents\Git-Repo\mpg-calc\obj\Debug\net9.0\mpg-calc.pdb
+C:\Users\Michael (ECPI)\OneDrive - ECPI University\Documents\Git-Repo\mpg-calc\obj\Debug\net9.0\mpg-calc.genruntimeconfig.cache
+C:\Users\Michael (ECPI)\OneDrive - ECPI University\Documents\Git-Repo\mpg-calc\obj\Debug\net9.0\ref\mpg-calc.dll

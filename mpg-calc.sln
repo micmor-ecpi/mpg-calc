@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mpg-calc", "mpg-calc.csproj", "{4A01D282-71F9-15E2-E8D9-BDBF605AD49F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A01D282-71F9-15E2-E8D9-BDBF605AD49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A01D282-71F9-15E2-E8D9-BDBF605AD49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A01D282-71F9-15E2-E8D9-BDBF605AD49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A01D282-71F9-15E2-E8D9-BDBF605AD49F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2431D42-049D-4514-AC01-C2AB2A7D59FF}
+	EndGlobalSection
+EndGlobal
