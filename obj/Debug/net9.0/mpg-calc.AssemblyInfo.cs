@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mpg-calc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ec05c6a98523d9b171c8375c47ef0a7a8617e00")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7c26dc03af58fab56844a8dde2909d139a94b9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("mpg-calc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mpg-calc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

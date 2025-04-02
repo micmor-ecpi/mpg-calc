@@ -18,7 +18,7 @@ public class MPGCalc
         //Initialize Database
         string db_table = PromptForTableName(); 
         SQLiteConnection conn =
-            DBCore.Connect("MichaelMorton.db");
+            DBCore.Connect("MPG-Calc.db");
         //Make sure the table exists
         DBCore.CreateTable(conn,db_table,DataEntry.GasReceiptTable);
 
